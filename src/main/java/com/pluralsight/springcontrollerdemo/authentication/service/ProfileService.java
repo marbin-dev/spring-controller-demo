@@ -1,6 +1,7 @@
-package com.pluralsight.springcontrollerdemo.authentication;
+package com.pluralsight.springcontrollerdemo.authentication.service;
 
-import org.springframework.context.annotation.Profile;
+import com.pluralsight.springcontrollerdemo.authentication.ProfileRepository;
+import com.pluralsight.springcontrollerdemo.authentication.models.Profile;
 import org.springframework.stereotype.Service;
 
 @Service

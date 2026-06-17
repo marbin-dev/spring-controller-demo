@@ -1,9 +1,9 @@
-package com.pluralsight.springcontrollerdemo.authentication.dto;
+package com.pluralsight.springcontrollerdemo.authentication.dto.fakedemo;
 
-public class Simple {
+public class SimpleLoginResponse {
     private String token;
 
-    public Simple(String token) {
+    public SimpleLoginResponse(String token) {
         this.token = token;
     }
 

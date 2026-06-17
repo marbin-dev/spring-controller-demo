@@ -1,6 +1,5 @@
-package com.pluralsight.springcontrollerdemo;
+package com.pluralsight.springcontrollerdemo.person;
 
-import org.hibernate.annotations.processing.SQL;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

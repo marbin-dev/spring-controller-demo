@@ -1,4 +1,4 @@
-package org.yearup.models.authentication;
+package com.pluralsight.springcontrollerdemo.authentication.dto;
 
 import java.util.Objects;
 

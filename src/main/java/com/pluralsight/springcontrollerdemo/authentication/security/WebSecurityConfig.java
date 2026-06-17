@@ -1,5 +1,7 @@
-package org.yearup.security;
+package com.pluralsight.springcontrollerdemo.authentication.security;
 
+import com.pluralsight.springcontrollerdemo.authentication.security.jwt.JWTFilter;
+import com.pluralsight.springcontrollerdemo.authentication.security.jwt.TokenProvider;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.HttpMethod;
@@ -13,8 +15,6 @@ import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.security.web.SecurityFilterChain;
 import org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter;
-import org.yearup.security.jwt.JWTFilter;
-import org.yearup.security.jwt.TokenProvider;
 
 @Configuration
 @EnableWebSecurity

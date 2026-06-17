@@ -1,5 +1,7 @@
-package com.pluralsight.springcontrollerdemo.authentication;
+package com.pluralsight.springcontrollerdemo.authentication.service;
 
+import com.pluralsight.springcontrollerdemo.authentication.UserRepository;
+import com.pluralsight.springcontrollerdemo.authentication.models.User;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
 

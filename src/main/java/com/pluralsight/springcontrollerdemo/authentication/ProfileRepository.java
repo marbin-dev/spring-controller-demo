@@ -1,8 +1,8 @@
-package org.yearup.repository;
+package com.pluralsight.springcontrollerdemo.authentication;
 
+import com.pluralsight.springcontrollerdemo.authentication.models.Profile;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
-import org.yearup.models.Profile;
 
 @Repository
 public interface ProfileRepository extends JpaRepository<Profile, Integer>

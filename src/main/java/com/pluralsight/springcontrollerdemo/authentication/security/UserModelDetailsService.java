@@ -1,8 +1,8 @@
-package org.yearup.security;
+package com.pluralsight.springcontrollerdemo.authentication.security;
 
 
-import org.yearup.service.UserService;
-import org.yearup.models.User;
+import com.pluralsight.springcontrollerdemo.authentication.models.User;
+import com.pluralsight.springcontrollerdemo.authentication.service.UserService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.security.core.GrantedAuthority;

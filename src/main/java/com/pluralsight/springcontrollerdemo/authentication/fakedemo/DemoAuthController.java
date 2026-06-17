@@ -1,4 +1,4 @@
-package com.pluralsight.springcontrollerdemo.authentication;
+package com.pluralsight.springcontrollerdemo.authentication.fakedemo;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestHeader;

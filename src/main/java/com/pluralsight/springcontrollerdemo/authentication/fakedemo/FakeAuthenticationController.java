@@ -1,4 +1,4 @@
-package com.pluralsight.springcontrollerdemo.authentication;
+package com.pluralsight.springcontrollerdemo.authentication.fakedemo;
 
 import com.pluralsight.springcontrollerdemo.authentication.dto.fakedemo.SimpleLoginRequest;
 import com.pluralsight.springcontrollerdemo.authentication.dto.fakedemo.SimpleLoginResponse;

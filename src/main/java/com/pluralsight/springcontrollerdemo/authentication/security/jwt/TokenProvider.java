@@ -1,4 +1,4 @@
-package org.yearup.security.jwt;
+package com.pluralsight.springcontrollerdemo.authentication.security.jwt;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

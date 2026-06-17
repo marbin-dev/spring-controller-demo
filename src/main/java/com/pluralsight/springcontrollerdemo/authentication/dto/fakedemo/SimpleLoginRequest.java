@@ -1,4 +1,4 @@
-package com.pluralsight.springcontrollerdemo.authentication.dto;
+package com.pluralsight.springcontrollerdemo.authentication.dto.fakedemo;
 
 // TODO:
 //public record LoginRequest(String email, String password) { }

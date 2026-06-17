@@ -1,4 +1,4 @@
-package com.pluralsight.springcontrollerdemo.authentication;
+package com.pluralsight.springcontrollerdemo.authentication.models;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.pluralsight.springcontrollerdemo.authentication.dto.Authority;

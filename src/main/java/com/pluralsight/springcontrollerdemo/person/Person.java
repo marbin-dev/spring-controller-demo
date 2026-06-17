@@ -1,4 +1,4 @@
-package com.pluralsight.springcontrollerdemo;
+package com.pluralsight.springcontrollerdemo.person;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

@@ -1,4 +1,4 @@
-package org.yearup.security;
+package com.pluralsight.springcontrollerdemo.authentication.security;
 
 
 import org.slf4j.Logger;

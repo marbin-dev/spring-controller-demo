@@ -1,4 +1,4 @@
-package com.pluralsight.springcontrollerdemo;
+package com.pluralsight.springcontrollerdemo.person;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
